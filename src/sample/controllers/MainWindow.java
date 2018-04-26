@@ -1,4 +1,4 @@
-package sample;
+package sample.controllers;
 
 import javafx.event.ActionEvent;
 import javafx.scene.control.Button;
@@ -6,7 +6,7 @@ import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
 
 
-public class Controller {
+public class MainWindow {
 
     public Button button;
     public Label label;
